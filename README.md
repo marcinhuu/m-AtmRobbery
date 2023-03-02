@@ -18,12 +18,17 @@
 - Rewards
 - Minigame
 
+# **Dependencies**
+* [PS-UI](https://github.com/Project-Sloth/ps-ui)
+
 # **Config Preview**
 
 ![Config](https://media.discordapp.net/attachments/1019726083827961956/1080643594211315762/image.png)
 
-# **Dependencies**
-* [PS-UI](https://github.com/Project-Sloth/ps-ui)
+# **Webhooks**
+
+![Webhooks](https://media.discordapp.net/attachments/954483760060059718/1080646497827295242/image.png)
+
 
 
 ![Logo](https://media.discordapp.net/attachments/1049749773185470537/1080643796934610954/transparent-logo_1.png)
