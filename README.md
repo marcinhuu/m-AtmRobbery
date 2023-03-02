@@ -1,7 +1,7 @@
 ![Logo](https://media.discordapp.net/attachments/1019726083827961956/1080645919290179676/atmrobbery.png)
 
-# About
-- I don't have any preview, is simple, is a script with target on atm and hacking and receive money.
+# Preview
+* [Youtube](https://www.youtube.com/watch?v=aiLfbtJmmJs)
 
 # Useful Links
 
