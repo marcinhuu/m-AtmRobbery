@@ -2,14 +2,12 @@
 
 # Thanks for your purchase ❤️
 
-# Any problems you can join our discord -> discord.gg/marcinhu ✅
-
-## Hope you enjoy the script 💝
+# Our discord -> discord.gg/marcinhu ✅
 
 ## Features
 
-# Optimized
-# 0.01ms
-# Hack ATM's
-# Rewards
-# Minigame
+- Optimized
+- 0.01ms
+- Hack ATM's
+- Rewards
+- Minigame
