@@ -19,3 +19,5 @@
 
 ![Config](https://media.discordapp.net/attachments/1019726083827961956/1080643594211315762/image.png)
 
+# **Dependencies**
+* [PS-UI](https://github.com/Project-Sloth/ps-ui)
