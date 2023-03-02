@@ -2,7 +2,10 @@
 
 # m-AtmRobbery
 
-* [Our Discord](https://discord.gg/marcinhu) 
+* [m-Discord](https://discord.gg/marcinhu) 
+* [m-Tebex](https://marcinhu.tebex.io/) 
+* [m-Documentation](https://mscripts.gitbook.io/docs/) 
+* [m-Youtube](https://www.youtube.com/channel/UCFuqHVtOqj7c3iE-UgPgH7g) 
 
 # **Features**
 
