@@ -1,5 +1,5 @@
 local QBCore = exports[Config.Settings.Core]:GetCoreObject()
-local CoolDown = false
+local cooldown = false
 
 RegisterNetEvent('m-AtmRobbery:Server:ToggleItem', function(type, item, amount)
     local src = source
@@ -13,9 +13,9 @@ RegisterNetEvent('m-AtmRobbery:Server:ToggleItem', function(type, item, amount)
 end)
 
 RegisterServerEvent('m-AtmRobbery:Server:StartCooldown', function()
-    CoolDown = true
+    cooldown = true
     local timer = Config.Settings.CoolDown * (60 * 1000)
-    while timer > 0 do Wait(1000) timer = timer - 1000 if timer == 0 then CoolDown = false end end
+    while timer > 0 do Wait(1000) timer = timer - 1000 if timer == 0 then cooldown = false end end
 end)
 
 QBCore.Functions.CreateCallback('m-AtmRobbery:Server:CoutPolice', function(source, cb)
@@ -29,7 +29,7 @@ QBCore.Functions.CreateCallback('m-AtmRobbery:Server:CoutPolice', function(sourc
 end)
 
 QBCore.Functions.CreateCallback("m-AtmRobbery:Server:Cooldown",function(source, cb)
-    if CoolDown then cb(true) else cb(false) end
+    if cooldown then cb(true) else cb(false) end
 end)
 
 
