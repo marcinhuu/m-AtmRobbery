@@ -25,6 +25,10 @@
 
 ![Config](https://media.discordapp.net/attachments/1019726083827961956/1080643594211315762/image.png)
 
+# **Original Autor**
+
+* [Serrulata](https://github.com/Serrulata-Studios/serrulata-atmrobbery)
+
 # **Webhooks**
 
 ![Webhooks](https://media.discordapp.net/attachments/954483760060059718/1080646497827295242/image.png)
