@@ -27,6 +27,8 @@
 
 # **Original Autor**
 
+* [Serrulata](https://github.com/Serrulata-Studios/serrulata-atmrobbery)
+
 - Changes:
 - Added webhooks
 - Removed the general ps-ui and added the simple circle
@@ -34,7 +36,6 @@
 - Added notify types
 - Added check for multiple police jobs
 
-* [Serrulata](https://github.com/Serrulata-Studios/serrulata-atmrobbery)
 
 # **Webhooks**
 
