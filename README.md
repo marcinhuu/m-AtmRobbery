@@ -1,6 +1,7 @@
 ![Logo](https://media.discordapp.net/attachments/1049749773185470537/1080643796934610954/transparent-logo_1.png)
 
-# m-AtmRobbery
+# About
+- I don't have any preview, is simple, is a script with target on atm and hacking and receive money.
 
 * [m-Discord](https://discord.gg/marcinhu) 
 * [m-Tebex](https://marcinhu.tebex.io/) 
