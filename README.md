@@ -3,6 +3,8 @@
 # About
 - I don't have any preview, is simple, is a script with target on atm and hacking and receive money.
 
+# Useful Links
+
 * [m-Discord](https://discord.gg/marcinhu) 
 * [m-Tebex](https://marcinhu.tebex.io/) 
 * [m-Documentation](https://mscripts.gitbook.io/docs/) 
