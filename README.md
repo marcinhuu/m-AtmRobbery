@@ -35,6 +35,7 @@
 - Added fingerprints
 - Added notify types
 - Added check for multiple police jobs
+- Added translation to config
 - Minimize the code for better optimization
 
 # **Webhooks**
