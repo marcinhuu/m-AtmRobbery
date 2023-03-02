@@ -1,8 +1,8 @@
 ![Logo](https://media.discordapp.net/attachments/1049749773185470537/1080643796934610954/transparent-logo_1.png)
 
-# m-AtmRobbery script for QB
+# m-AtmRobbery
 
-# Our discord -> discord.gg/marcinhu ✅
+* [Our Discord](https://discord.gg/marcinhu) 
 
 # **Features**
 
