@@ -1,4 +1,4 @@
-![Logo](https://media.discordapp.net/attachments/1049749773185470537/1080643796934610954/transparent-logo_1.png)
+![Logo](https://media.discordapp.net/attachments/1019726083827961956/1080645919290179676/atmrobbery.png)
 
 # About
 - I don't have any preview, is simple, is a script with target on atm and hacking and receive money.
@@ -24,3 +24,6 @@
 
 # **Dependencies**
 * [PS-UI](https://github.com/Project-Sloth/ps-ui)
+
+
+![Logo](https://media.discordapp.net/attachments/1049749773185470537/1080643796934610954/transparent-logo_1.png)
